@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hello World 👋<br><br>I’m **Anshul Wadgaonkar**, a passionate **Backend Developer**.  <br><br>I love building scalable, efficient, and reliable backend systems and am always eager to collaborate on **open source projects**.  <br><br>💡 **Interests:** APIs, Microservices, CI/CD, Databases, and System Design.  <br><br>🚀 Currently exploring new backend technologies and contributing to meaningful open source projects.<br>
 
 
