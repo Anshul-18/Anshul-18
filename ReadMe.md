@@ -13,6 +13,8 @@ I’m **Anshul Wadgaonkar**, a passionate **Backend Developer**.  <br><br>I love
 ![](https://nirzak-streak-stats.vercel.app/?user=Anshul-18&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-18&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Metrics](https://metrics.lecoq.io/Anshul-18?template=classic&lines=1&repositories=1&notable=1&activity=1&projects=1&introduction=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&config.timezone=Asia%2FCalcutta&config.octicon=true)
+
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anshul-18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
